@@ -1,0 +1,11 @@
+zone_id,max_volume_m3,max_weight_kg,temperature_class,near_loading_dock
+ZONE-A,373.35,7408.07,Frozen,False
+ZONE-B,928.96,4464.63,Frozen,True
+ZONE-C,388.84,4620.65,Frozen,True
+ZONE-D,327.03,8049.61,Cold,True
+ZONE-E,580.8,9665.06,Frozen,False
+ZONE-F,841.42,2139.9,Ambient,True
+ZONE-G,192.83,4785.67,Frozen,False
+ZONE-H,948.72,5328.47,Ambient,True
+ZONE-I,815.57,4386.81,Cold,False
+ZONE-J,263.13,4268.7,Cold,True

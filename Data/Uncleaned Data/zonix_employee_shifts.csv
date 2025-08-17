@@ -1,0 +1,101 @@
+employee_id,name,role,shift_start,shift_end,zone_assigned
+EMP000,Employee_0,Supervisor,06:00,22:00,ZONE-A
+EMP001,Employee_1,Forklift Operator,14:00,22:00,ZONE-I
+EMP002,Employee_2,Picker,14:00,06:00,ZONE-D
+EMP003,Employee_3,Forklift Operator,14:00,14:00,ZONE-F
+EMP004,Employee_4,Supervisor,06:00,06:00,ZONE-G
+EMP005,Employee_5,Packer,22:00,22:00,ZONE-B
+EMP006,Employee_6,Packer,14:00,06:00,ZONE-H
+EMP007,Employee_7,Inventory Analyst,22:00,06:00,ZONE-I
+EMP008,Employee_8,Supervisor,22:00,06:00,ZONE-J
+EMP009,Employee_9,Inventory Analyst,14:00,14:00,ZONE-B
+EMP010,Employee_10,Inventory Analyst,06:00,06:00,ZONE-E
+EMP011,Employee_11,Picker,14:00,06:00,ZONE-B
+EMP012,Employee_12,Supervisor,14:00,06:00,ZONE-E
+EMP013,Employee_13,Packer,06:00,06:00,ZONE-G
+EMP014,Employee_14,Supervisor,22:00,06:00,ZONE-F
+EMP015,Employee_15,Picker,06:00,06:00,ZONE-D
+EMP016,Employee_16,Supervisor,06:00,06:00,ZONE-B
+EMP017,Employee_17,Supervisor,14:00,22:00,ZONE-G
+EMP018,Employee_18,Inventory Analyst,06:00,06:00,ZONE-J
+EMP019,Employee_19,Supervisor,06:00,06:00,ZONE-I
+EMP020,Employee_20,Inventory Analyst,06:00,14:00,ZONE-A
+EMP021,Employee_21,Inventory Analyst,22:00,22:00,ZONE-C
+EMP022,Employee_22,Forklift Operator,22:00,06:00,ZONE-G
+EMP023,Employee_23,Picker,14:00,14:00,ZONE-I
+EMP024,Employee_24,Inventory Analyst,14:00,06:00,ZONE-E
+EMP025,Employee_25,Supervisor,22:00,06:00,ZONE-G
+EMP026,Employee_26,Inventory Analyst,06:00,06:00,ZONE-J
+EMP027,Employee_27,Inventory Analyst,14:00,06:00,ZONE-G
+EMP028,Employee_28,Inventory Analyst,14:00,06:00,ZONE-D
+EMP029,Employee_29,Packer,06:00,14:00,ZONE-E
+EMP030,Employee_30,Packer,06:00,06:00,ZONE-B
+EMP031,Employee_31,Packer,06:00,14:00,ZONE-H
+EMP032,Employee_32,Packer,06:00,06:00,ZONE-A
+EMP033,Employee_33,Forklift Operator,06:00,14:00,ZONE-B
+EMP034,Employee_34,Inventory Analyst,22:00,22:00,ZONE-C
+EMP035,Employee_35,Forklift Operator,06:00,06:00,ZONE-G
+EMP036,Employee_36,Supervisor,14:00,22:00,ZONE-F
+EMP037,Employee_37,Picker,22:00,22:00,ZONE-G
+EMP038,Employee_38,Forklift Operator,14:00,22:00,ZONE-E
+EMP039,Employee_39,Packer,06:00,06:00,ZONE-D
+EMP040,Employee_40,Packer,14:00,22:00,ZONE-G
+EMP041,Employee_41,Supervisor,06:00,14:00,ZONE-C
+EMP042,Employee_42,Inventory Analyst,14:00,06:00,ZONE-J
+EMP043,Employee_43,Picker,14:00,22:00,ZONE-G
+EMP044,Employee_44,Forklift Operator,06:00,06:00,ZONE-B
+EMP045,Employee_45,Inventory Analyst,14:00,22:00,ZONE-H
+EMP046,Employee_46,Inventory Analyst,22:00,14:00,ZONE-F
+EMP047,Employee_47,Forklift Operator,14:00,06:00,ZONE-C
+EMP048,Employee_48,Forklift Operator,22:00,06:00,ZONE-C
+EMP049,Employee_49,Forklift Operator,22:00,22:00,ZONE-E
+EMP050,Employee_50,Forklift Operator,14:00,14:00,ZONE-C
+EMP051,Employee_51,Packer,22:00,06:00,ZONE-F
+EMP052,Employee_52,Inventory Analyst,22:00,22:00,ZONE-B
+EMP053,Employee_53,Inventory Analyst,14:00,14:00,ZONE-H
+EMP054,Employee_54,Packer,06:00,14:00,ZONE-I
+EMP055,Employee_55,Inventory Analyst,06:00,14:00,ZONE-G
+EMP056,Employee_56,Forklift Operator,22:00,14:00,ZONE-C
+EMP057,Employee_57,Picker,22:00,06:00,ZONE-J
+EMP058,Employee_58,Inventory Analyst,06:00,06:00,ZONE-D
+EMP059,Employee_59,Picker,22:00,14:00,ZONE-J
+EMP060,Employee_60,Picker,06:00,22:00,ZONE-B
+EMP061,Employee_61,Packer,14:00,22:00,ZONE-I
+EMP062,Employee_62,Supervisor,22:00,14:00,ZONE-E
+EMP063,Employee_63,Inventory Analyst,14:00,14:00,ZONE-B
+EMP064,Employee_64,Packer,06:00,22:00,ZONE-J
+EMP065,Employee_65,Packer,06:00,14:00,ZONE-F
+EMP066,Employee_66,Picker,14:00,14:00,ZONE-G
+EMP067,Employee_67,Inventory Analyst,22:00,06:00,ZONE-B
+EMP068,Employee_68,Packer,14:00,06:00,ZONE-A
+EMP069,Employee_69,Forklift Operator,14:00,14:00,ZONE-G
+EMP070,Employee_70,Packer,22:00,14:00,ZONE-A
+EMP071,Employee_71,Forklift Operator,06:00,06:00,ZONE-C
+EMP072,Employee_72,Supervisor,14:00,14:00,ZONE-D
+EMP073,Employee_73,Forklift Operator,14:00,06:00,ZONE-B
+EMP074,Employee_74,Forklift Operator,06:00,06:00,ZONE-G
+EMP075,Employee_75,Picker,14:00,22:00,ZONE-E
+EMP076,Employee_76,Packer,06:00,06:00,ZONE-A
+EMP077,Employee_77,Supervisor,22:00,22:00,ZONE-H
+EMP078,Employee_78,Packer,06:00,22:00,ZONE-J
+EMP079,Employee_79,Forklift Operator,06:00,06:00,ZONE-G
+EMP080,Employee_80,Forklift Operator,14:00,14:00,ZONE-D
+EMP081,Employee_81,Packer,06:00,06:00,ZONE-B
+EMP082,Employee_82,Supervisor,06:00,22:00,ZONE-G
+EMP083,Employee_83,Supervisor,14:00,06:00,ZONE-B
+EMP084,Employee_84,Picker,06:00,06:00,ZONE-F
+EMP085,Employee_85,Forklift Operator,14:00,22:00,ZONE-A
+EMP086,Employee_86,Forklift Operator,22:00,06:00,ZONE-G
+EMP087,Employee_87,Picker,06:00,06:00,ZONE-G
+EMP088,Employee_88,Packer,22:00,22:00,ZONE-D
+EMP089,Employee_89,Forklift Operator,06:00,14:00,ZONE-D
+EMP090,Employee_90,Packer,06:00,22:00,ZONE-J
+EMP091,Employee_91,Supervisor,22:00,22:00,ZONE-E
+EMP092,Employee_92,Inventory Analyst,22:00,06:00,ZONE-B
+EMP093,Employee_93,Picker,14:00,22:00,ZONE-I
+EMP094,Employee_94,Forklift Operator,14:00,06:00,ZONE-J
+EMP095,Employee_95,Picker,22:00,06:00,ZONE-D
+EMP096,Employee_96,Supervisor,06:00,06:00,ZONE-I
+EMP097,Employee_97,Supervisor,14:00,22:00,ZONE-C
+EMP098,Employee_98,Supervisor,06:00,22:00,ZONE-I
+EMP099,Employee_99,Supervisor,14:00,06:00,ZONE-A

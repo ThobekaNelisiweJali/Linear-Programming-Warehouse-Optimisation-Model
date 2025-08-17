@@ -1,0 +1,13 @@
+category_1,category_2
+Electronics,Flammable
+Batteries,Chemicals
+Batteries,Flammable
+Chemicals,Electronics
+Chemicals,Flammable
+Chemicals,Food
+Chemicals,Textiles
+Electronics,Textiles
+Batteries,Electronics
+Electronics,Food
+Batteries,Food
+Batteries,Textiles

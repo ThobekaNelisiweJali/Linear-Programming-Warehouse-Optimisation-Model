@@ -1,0 +1,501 @@
+log_id,equipment_type,status,zone_id,last_maintenance
+EQL00000,Cart,Maintenance,ZONE-F,2025-06-24
+EQL00001,Pallet Jack,Out of Service,ZONE-I,2024-10-23
+EQL00002,Cart,Operational,ZONE-D,2024-02-25
+EQL00003,Cart,Out of Service,ZONE-B,2025-04-16
+EQL00004,Cart,Operational,ZONE-C,2024-01-16
+EQL00005,Conveyor Belt,Maintenance,ZONE-D,2024-03-06
+EQL00006,Forklift,Maintenance,ZONE-J,2025-04-16
+EQL00007,Scanner,Maintenance,ZONE-H,2024-01-23
+EQL00008,Pallet Jack,Maintenance,ZONE-C,2025-04-30
+EQL00009,Cart,Out of Service,ZONE-H,2025-02-18
+EQL00010,Forklift,Operational,ZONE-F,2024-10-31
+EQL00011,Pallet Jack,Maintenance,ZONE-D,2024-06-25
+EQL00012,Scanner,Out of Service,ZONE-G,2024-07-13
+EQL00013,Scanner,Maintenance,ZONE-E,2024-01-13
+EQL00014,Cart,Maintenance,ZONE-E,2024-06-14
+EQL00015,Scanner,Maintenance,ZONE-I,2024-05-29
+EQL00016,Scanner,Operational,ZONE-C,2024-12-06
+EQL00017,Pallet Jack,Operational,ZONE-J,2025-07-10
+EQL00018,Pallet Jack,Operational,ZONE-D,2024-06-22
+EQL00019,Cart,Maintenance,ZONE-E,2024-06-15
+EQL00020,Forklift,Out of Service,ZONE-A,2024-04-06
+EQL00021,Cart,Out of Service,ZONE-G,2025-02-07
+EQL00022,Conveyor Belt,Out of Service,ZONE-H,2024-03-17
+EQL00023,Scanner,Maintenance,ZONE-F,2024-08-24
+EQL00024,Forklift,Operational,ZONE-I,2024-10-17
+EQL00025,Pallet Jack,Out of Service,ZONE-C,2024-05-15
+EQL00026,Conveyor Belt,Maintenance,ZONE-B,2025-01-01
+EQL00027,Conveyor Belt,Maintenance,ZONE-E,2025-07-01
+EQL00028,Scanner,Out of Service,ZONE-I,2024-09-04
+EQL00029,Pallet Jack,Out of Service,ZONE-A,2024-08-01
+EQL00030,Forklift,Maintenance,ZONE-A,2024-03-10
+EQL00031,Pallet Jack,Out of Service,ZONE-J,2024-11-24
+EQL00032,Scanner,Maintenance,ZONE-C,2024-01-16
+EQL00033,Conveyor Belt,Out of Service,ZONE-J,2025-05-01
+EQL00034,Scanner,Operational,ZONE-C,2024-06-22
+EQL00035,Cart,Maintenance,ZONE-E,2024-09-30
+EQL00036,Conveyor Belt,Operational,ZONE-D,2025-06-07
+EQL00037,Scanner,Out of Service,ZONE-F,2024-08-06
+EQL00038,Forklift,Maintenance,ZONE-H,2025-05-27
+EQL00039,Forklift,Out of Service,ZONE-H,2025-02-02
+EQL00040,Forklift,Maintenance,ZONE-D,2024-04-20
+EQL00041,Cart,Out of Service,ZONE-A,2025-04-08
+EQL00042,Pallet Jack,Operational,ZONE-G,2024-04-02
+EQL00043,Forklift,Operational,ZONE-F,2025-03-26
+EQL00044,Cart,Out of Service,ZONE-E,2025-01-30
+EQL00045,Forklift,Operational,ZONE-D,2025-07-04
+EQL00046,Cart,Operational,ZONE-F,2025-04-23
+EQL00047,Forklift,Out of Service,ZONE-H,2024-11-11
+EQL00048,Pallet Jack,Maintenance,ZONE-F,2024-12-18
+EQL00049,Scanner,Out of Service,ZONE-C,2024-08-26
+EQL00050,Forklift,Maintenance,ZONE-I,2024-04-13
+EQL00051,Scanner,Operational,ZONE-C,2024-01-29
+EQL00052,Forklift,Operational,ZONE-D,2024-03-29
+EQL00053,Pallet Jack,Operational,ZONE-E,2025-01-09
+EQL00054,Scanner,Operational,ZONE-B,2025-01-31
+EQL00055,Cart,Operational,ZONE-J,2025-07-16
+EQL00056,Forklift,Maintenance,ZONE-J,2024-12-29
+EQL00057,Forklift,Maintenance,ZONE-B,2024-05-26
+EQL00058,Cart,Maintenance,ZONE-F,2024-11-09
+EQL00059,Pallet Jack,Out of Service,ZONE-B,2025-07-01
+EQL00060,Conveyor Belt,Operational,ZONE-J,2025-03-27
+EQL00061,Forklift,Operational,ZONE-A,2025-05-20
+EQL00062,Cart,Operational,ZONE-H,2025-04-30
+EQL00063,Conveyor Belt,Out of Service,ZONE-J,2024-04-10
+EQL00064,Forklift,Out of Service,ZONE-J,2024-04-16
+EQL00065,Scanner,Out of Service,ZONE-A,2024-10-17
+EQL00066,Cart,Operational,ZONE-J,2024-12-14
+EQL00067,Scanner,Maintenance,ZONE-F,2024-08-14
+EQL00068,Pallet Jack,Out of Service,ZONE-A,2024-02-19
+EQL00069,Conveyor Belt,Out of Service,ZONE-H,2024-06-06
+EQL00070,Cart,Maintenance,ZONE-E,2024-11-23
+EQL00071,Forklift,Out of Service,ZONE-C,2024-03-17
+EQL00072,Forklift,Maintenance,ZONE-E,2025-03-29
+EQL00073,Conveyor Belt,Operational,ZONE-A,2024-11-05
+EQL00074,Scanner,Maintenance,ZONE-A,2024-11-22
+EQL00075,Scanner,Maintenance,ZONE-D,2025-05-22
+EQL00076,Cart,Operational,ZONE-I,2024-04-16
+EQL00077,Cart,Out of Service,ZONE-I,2024-08-28
+EQL00078,Scanner,Operational,ZONE-A,2025-03-10
+EQL00079,Cart,Out of Service,ZONE-C,2024-01-28
+EQL00080,Scanner,Out of Service,ZONE-D,2024-09-05
+EQL00081,Conveyor Belt,Maintenance,ZONE-B,2024-12-29
+EQL00082,Cart,Operational,ZONE-G,2025-06-16
+EQL00083,Scanner,Maintenance,ZONE-C,2025-04-16
+EQL00084,Cart,Operational,ZONE-A,2025-06-22
+EQL00085,Forklift,Operational,ZONE-A,2025-02-16
+EQL00086,Forklift,Maintenance,ZONE-C,2025-07-22
+EQL00087,Pallet Jack,Out of Service,ZONE-F,2024-06-13
+EQL00088,Scanner,Out of Service,ZONE-D,2025-07-29
+EQL00089,Pallet Jack,Operational,ZONE-A,2024-02-17
+EQL00090,Scanner,Out of Service,ZONE-G,2025-04-28
+EQL00091,Cart,Maintenance,ZONE-B,2024-06-06
+EQL00092,Scanner,Maintenance,ZONE-E,2024-05-30
+EQL00093,Forklift,Maintenance,ZONE-H,2024-08-12
+EQL00094,Cart,Operational,ZONE-G,2024-09-16
+EQL00095,Forklift,Operational,ZONE-H,2025-01-21
+EQL00096,Cart,Out of Service,ZONE-J,2024-09-12
+EQL00097,Scanner,Maintenance,ZONE-F,2024-03-01
+EQL00098,Scanner,Maintenance,ZONE-G,2025-01-30
+EQL00099,Forklift,Operational,ZONE-I,2025-01-31
+EQL00100,Conveyor Belt,Operational,ZONE-F,2024-06-10
+EQL00101,Scanner,Operational,ZONE-I,2025-01-14
+EQL00102,Conveyor Belt,Maintenance,ZONE-B,2025-03-18
+EQL00103,Cart,Maintenance,ZONE-B,2024-12-14
+EQL00104,Conveyor Belt,Out of Service,ZONE-B,2024-01-31
+EQL00105,Forklift,Maintenance,ZONE-F,2024-03-11
+EQL00106,Pallet Jack,Out of Service,ZONE-B,2025-01-31
+EQL00107,Pallet Jack,Out of Service,ZONE-C,2025-03-13
+EQL00108,Forklift,Maintenance,ZONE-H,2024-01-02
+EQL00109,Pallet Jack,Out of Service,ZONE-H,2025-07-15
+EQL00110,Forklift,Out of Service,ZONE-D,2024-05-14
+EQL00111,Scanner,Operational,ZONE-I,2024-05-25
+EQL00112,Conveyor Belt,Maintenance,ZONE-H,2024-06-27
+EQL00113,Pallet Jack,Out of Service,ZONE-A,2024-09-20
+EQL00114,Scanner,Out of Service,ZONE-H,2024-11-06
+EQL00115,Pallet Jack,Out of Service,ZONE-A,2024-07-22
+EQL00116,Cart,Maintenance,ZONE-D,2024-01-30
+EQL00117,Forklift,Operational,ZONE-J,2024-02-28
+EQL00118,Forklift,Operational,ZONE-F,2024-01-09
+EQL00119,Scanner,Maintenance,ZONE-G,2024-11-19
+EQL00120,Cart,Maintenance,ZONE-J,2024-06-15
+EQL00121,Conveyor Belt,Maintenance,ZONE-D,2024-12-02
+EQL00122,Cart,Maintenance,ZONE-H,2025-01-13
+EQL00123,Cart,Operational,ZONE-H,2024-08-29
+EQL00124,Conveyor Belt,Out of Service,ZONE-I,2024-06-08
+EQL00125,Conveyor Belt,Out of Service,ZONE-F,2024-08-22
+EQL00126,Cart,Maintenance,ZONE-D,2025-03-28
+EQL00127,Pallet Jack,Maintenance,ZONE-B,2024-07-17
+EQL00128,Pallet Jack,Out of Service,ZONE-G,2025-04-21
+EQL00129,Cart,Operational,ZONE-J,2024-02-02
+EQL00130,Pallet Jack,Maintenance,ZONE-C,2025-02-11
+EQL00131,Conveyor Belt,Maintenance,ZONE-C,2024-03-29
+EQL00132,Conveyor Belt,Operational,ZONE-C,2024-08-08
+EQL00133,Pallet Jack,Operational,ZONE-D,2024-03-09
+EQL00134,Conveyor Belt,Operational,ZONE-B,2024-10-20
+EQL00135,Forklift,Maintenance,ZONE-E,2024-08-24
+EQL00136,Conveyor Belt,Operational,ZONE-C,2024-06-08
+EQL00137,Cart,Maintenance,ZONE-J,2024-10-16
+EQL00138,Scanner,Maintenance,ZONE-E,2025-07-07
+EQL00139,Pallet Jack,Operational,ZONE-G,2025-07-31
+EQL00140,Pallet Jack,Out of Service,ZONE-I,2025-06-16
+EQL00141,Conveyor Belt,Operational,ZONE-B,2024-11-30
+EQL00142,Conveyor Belt,Out of Service,ZONE-I,2025-05-16
+EQL00143,Scanner,Operational,ZONE-J,2024-09-02
+EQL00144,Scanner,Operational,ZONE-F,2024-11-18
+EQL00145,Cart,Maintenance,ZONE-F,2024-11-24
+EQL00146,Forklift,Maintenance,ZONE-C,2025-06-30
+EQL00147,Cart,Maintenance,ZONE-J,2024-12-04
+EQL00148,Pallet Jack,Maintenance,ZONE-I,2024-06-19
+EQL00149,Conveyor Belt,Maintenance,ZONE-D,2024-04-19
+EQL00150,Cart,Maintenance,ZONE-E,2024-01-10
+EQL00151,Conveyor Belt,Maintenance,ZONE-C,2024-07-20
+EQL00152,Conveyor Belt,Out of Service,ZONE-E,2024-09-13
+EQL00153,Cart,Out of Service,ZONE-H,2024-09-18
+EQL00154,Cart,Maintenance,ZONE-H,2025-03-05
+EQL00155,Scanner,Out of Service,ZONE-H,2025-05-21
+EQL00156,Forklift,Operational,ZONE-F,2024-03-06
+EQL00157,Scanner,Out of Service,ZONE-A,2024-02-04
+EQL00158,Forklift,Maintenance,ZONE-J,2025-07-10
+EQL00159,Cart,Out of Service,ZONE-F,2025-05-05
+EQL00160,Forklift,Operational,ZONE-J,2024-09-10
+EQL00161,Pallet Jack,Out of Service,ZONE-G,2024-01-17
+EQL00162,Scanner,Maintenance,ZONE-I,2024-09-17
+EQL00163,Scanner,Operational,ZONE-H,2024-09-12
+EQL00164,Scanner,Operational,ZONE-H,2025-02-27
+EQL00165,Conveyor Belt,Out of Service,ZONE-G,2025-05-15
+EQL00166,Conveyor Belt,Operational,ZONE-B,2024-10-12
+EQL00167,Cart,Operational,ZONE-A,2024-01-07
+EQL00168,Cart,Operational,ZONE-B,2025-05-11
+EQL00169,Conveyor Belt,Maintenance,ZONE-F,2024-07-17
+EQL00170,Scanner,Operational,ZONE-B,2025-02-21
+EQL00171,Conveyor Belt,Out of Service,ZONE-J,2024-02-21
+EQL00172,Forklift,Out of Service,ZONE-D,2024-08-30
+EQL00173,Scanner,Operational,ZONE-J,2024-08-06
+EQL00174,Conveyor Belt,Out of Service,ZONE-C,2025-06-01
+EQL00175,Cart,Operational,ZONE-F,2024-04-18
+EQL00176,Conveyor Belt,Out of Service,ZONE-H,2024-12-16
+EQL00177,Pallet Jack,Operational,ZONE-F,2024-03-06
+EQL00178,Conveyor Belt,Operational,ZONE-B,2024-01-10
+EQL00179,Scanner,Operational,ZONE-E,2024-07-20
+EQL00180,Conveyor Belt,Maintenance,ZONE-F,2024-08-01
+EQL00181,Cart,Out of Service,ZONE-I,2024-03-08
+EQL00182,Forklift,Operational,ZONE-F,2024-11-22
+EQL00183,Pallet Jack,Maintenance,ZONE-J,2024-02-19
+EQL00184,Scanner,Maintenance,ZONE-E,2024-01-17
+EQL00185,Cart,Operational,ZONE-A,2025-06-06
+EQL00186,Pallet Jack,Operational,ZONE-J,2024-11-01
+EQL00187,Conveyor Belt,Operational,ZONE-E,2025-01-26
+EQL00188,Pallet Jack,Operational,ZONE-E,2024-05-03
+EQL00189,Forklift,Operational,ZONE-F,2025-05-18
+EQL00190,Pallet Jack,Out of Service,ZONE-G,2024-08-12
+EQL00191,Pallet Jack,Operational,ZONE-D,2024-11-13
+EQL00192,Conveyor Belt,Operational,ZONE-G,2025-04-17
+EQL00193,Conveyor Belt,Out of Service,ZONE-E,2025-06-24
+EQL00194,Scanner,Maintenance,ZONE-F,2024-12-23
+EQL00195,Conveyor Belt,Out of Service,ZONE-D,2025-04-27
+EQL00196,Pallet Jack,Maintenance,ZONE-H,2025-03-04
+EQL00197,Forklift,Maintenance,ZONE-I,2025-05-11
+EQL00198,Conveyor Belt,Out of Service,ZONE-B,2025-04-16
+EQL00199,Scanner,Operational,ZONE-D,2025-07-24
+EQL00200,Scanner,Maintenance,ZONE-H,2024-10-26
+EQL00201,Pallet Jack,Operational,ZONE-H,2024-03-24
+EQL00202,Conveyor Belt,Out of Service,ZONE-I,2025-01-11
+EQL00203,Conveyor Belt,Maintenance,ZONE-C,2024-11-08
+EQL00204,Scanner,Operational,ZONE-A,2024-11-15
+EQL00205,Conveyor Belt,Maintenance,ZONE-I,2024-07-22
+EQL00206,Pallet Jack,Maintenance,ZONE-A,2024-12-20
+EQL00207,Forklift,Out of Service,ZONE-C,2024-10-20
+EQL00208,Pallet Jack,Operational,ZONE-C,2025-05-18
+EQL00209,Conveyor Belt,Operational,ZONE-I,2024-05-24
+EQL00210,Pallet Jack,Maintenance,ZONE-A,2025-06-22
+EQL00211,Cart,Operational,ZONE-G,2024-01-17
+EQL00212,Cart,Maintenance,ZONE-B,2025-07-28
+EQL00213,Conveyor Belt,Out of Service,ZONE-G,2025-07-29
+EQL00214,Conveyor Belt,Out of Service,ZONE-A,2024-02-08
+EQL00215,Forklift,Operational,ZONE-J,2024-05-09
+EQL00216,Pallet Jack,Out of Service,ZONE-J,2024-04-24
+EQL00217,Forklift,Out of Service,ZONE-H,2025-03-25
+EQL00218,Conveyor Belt,Operational,ZONE-J,2024-02-14
+EQL00219,Conveyor Belt,Maintenance,ZONE-J,2024-08-03
+EQL00220,Scanner,Out of Service,ZONE-B,2025-02-18
+EQL00221,Forklift,Operational,ZONE-C,2024-09-21
+EQL00222,Conveyor Belt,Operational,ZONE-H,2025-03-15
+EQL00223,Cart,Operational,ZONE-C,2025-01-15
+EQL00224,Scanner,Out of Service,ZONE-A,2024-10-27
+EQL00225,Pallet Jack,Out of Service,ZONE-I,2024-06-19
+EQL00226,Scanner,Maintenance,ZONE-H,2025-02-09
+EQL00227,Pallet Jack,Maintenance,ZONE-D,2024-12-20
+EQL00228,Cart,Maintenance,ZONE-H,2024-06-09
+EQL00229,Pallet Jack,Maintenance,ZONE-E,2025-07-05
+EQL00230,Forklift,Maintenance,ZONE-C,2024-01-26
+EQL00231,Pallet Jack,Maintenance,ZONE-A,2024-03-23
+EQL00232,Pallet Jack,Operational,ZONE-J,2024-06-21
+EQL00233,Scanner,Maintenance,ZONE-E,2024-03-10
+EQL00234,Cart,Out of Service,ZONE-F,2024-01-06
+EQL00235,Pallet Jack,Maintenance,ZONE-D,2024-07-13
+EQL00236,Forklift,Out of Service,ZONE-G,2025-06-08
+EQL00237,Scanner,Maintenance,ZONE-C,2024-03-03
+EQL00238,Cart,Operational,ZONE-G,2024-01-13
+EQL00239,Cart,Operational,ZONE-A,2024-07-23
+EQL00240,Conveyor Belt,Out of Service,ZONE-G,2024-02-09
+EQL00241,Forklift,Maintenance,ZONE-A,2024-06-13
+EQL00242,Scanner,Operational,ZONE-A,2024-01-31
+EQL00243,Scanner,Operational,ZONE-B,2025-06-12
+EQL00244,Forklift,Maintenance,ZONE-B,2025-02-01
+EQL00245,Cart,Out of Service,ZONE-D,2025-04-03
+EQL00246,Pallet Jack,Out of Service,ZONE-A,2024-08-10
+EQL00247,Forklift,Out of Service,ZONE-D,2024-03-18
+EQL00248,Scanner,Operational,ZONE-B,2025-03-03
+EQL00249,Forklift,Maintenance,ZONE-D,2025-02-28
+EQL00250,Cart,Operational,ZONE-D,2025-01-21
+EQL00251,Conveyor Belt,Operational,ZONE-I,2024-08-26
+EQL00252,Conveyor Belt,Operational,ZONE-I,2024-03-30
+EQL00253,Pallet Jack,Operational,ZONE-A,2025-01-19
+EQL00254,Pallet Jack,Maintenance,ZONE-E,2024-05-18
+EQL00255,Cart,Operational,ZONE-G,2025-06-07
+EQL00256,Pallet Jack,Operational,ZONE-D,2024-08-31
+EQL00257,Conveyor Belt,Out of Service,ZONE-E,2025-05-19
+EQL00258,Cart,Operational,ZONE-B,2025-02-25
+EQL00259,Cart,Maintenance,ZONE-C,2024-06-30
+EQL00260,Cart,Operational,ZONE-G,2024-07-13
+EQL00261,Forklift,Maintenance,ZONE-J,2024-02-22
+EQL00262,Pallet Jack,Maintenance,ZONE-G,2024-06-27
+EQL00263,Scanner,Maintenance,ZONE-D,2024-10-19
+EQL00264,Conveyor Belt,Out of Service,ZONE-A,2025-01-09
+EQL00265,Pallet Jack,Out of Service,ZONE-A,2024-02-28
+EQL00266,Conveyor Belt,Operational,ZONE-D,2024-02-23
+EQL00267,Pallet Jack,Operational,ZONE-D,2024-09-01
+EQL00268,Scanner,Operational,ZONE-F,2024-05-28
+EQL00269,Conveyor Belt,Maintenance,ZONE-G,2025-01-02
+EQL00270,Scanner,Maintenance,ZONE-I,2024-01-16
+EQL00271,Conveyor Belt,Maintenance,ZONE-I,2024-06-24
+EQL00272,Forklift,Operational,ZONE-J,2025-06-23
+EQL00273,Forklift,Operational,ZONE-E,2025-02-09
+EQL00274,Conveyor Belt,Operational,ZONE-J,2025-04-11
+EQL00275,Conveyor Belt,Operational,ZONE-C,2024-05-08
+EQL00276,Scanner,Out of Service,ZONE-C,2024-08-10
+EQL00277,Cart,Out of Service,ZONE-F,2024-08-31
+EQL00278,Conveyor Belt,Out of Service,ZONE-A,2025-03-01
+EQL00279,Pallet Jack,Operational,ZONE-G,2024-12-19
+EQL00280,Pallet Jack,Out of Service,ZONE-C,2024-11-21
+EQL00281,Pallet Jack,Out of Service,ZONE-E,2024-01-03
+EQL00282,Forklift,Operational,ZONE-G,2025-04-23
+EQL00283,Scanner,Out of Service,ZONE-G,2024-03-21
+EQL00284,Forklift,Operational,ZONE-I,2024-02-13
+EQL00285,Pallet Jack,Operational,ZONE-A,2024-06-03
+EQL00286,Conveyor Belt,Operational,ZONE-C,2025-06-19
+EQL00287,Pallet Jack,Maintenance,ZONE-I,2024-04-08
+EQL00288,Conveyor Belt,Operational,ZONE-H,2025-01-31
+EQL00289,Scanner,Out of Service,ZONE-B,2024-06-19
+EQL00290,Cart,Out of Service,ZONE-H,2024-05-27
+EQL00291,Conveyor Belt,Operational,ZONE-H,2024-05-02
+EQL00292,Forklift,Maintenance,ZONE-B,2024-04-21
+EQL00293,Pallet Jack,Maintenance,ZONE-H,2024-05-09
+EQL00294,Pallet Jack,Maintenance,ZONE-C,2024-03-08
+EQL00295,Pallet Jack,Out of Service,ZONE-G,2025-06-28
+EQL00296,Conveyor Belt,Maintenance,ZONE-I,2024-10-12
+EQL00297,Scanner,Maintenance,ZONE-D,2024-01-05
+EQL00298,Conveyor Belt,Operational,ZONE-F,2024-04-27
+EQL00299,Forklift,Maintenance,ZONE-I,2024-08-17
+EQL00300,Pallet Jack,Maintenance,ZONE-E,2024-06-08
+EQL00301,Conveyor Belt,Maintenance,ZONE-A,2024-10-20
+EQL00302,Pallet Jack,Operational,ZONE-C,2024-07-04
+EQL00303,Forklift,Operational,ZONE-I,2025-07-05
+EQL00304,Cart,Maintenance,ZONE-C,2024-08-11
+EQL00305,Cart,Out of Service,ZONE-J,2024-05-31
+EQL00306,Cart,Out of Service,ZONE-B,2024-05-19
+EQL00307,Pallet Jack,Operational,ZONE-D,2025-01-01
+EQL00308,Conveyor Belt,Maintenance,ZONE-E,2024-05-07
+EQL00309,Pallet Jack,Out of Service,ZONE-G,2024-12-16
+EQL00310,Scanner,Maintenance,ZONE-G,2024-05-26
+EQL00311,Conveyor Belt,Operational,ZONE-I,2024-10-11
+EQL00312,Forklift,Out of Service,ZONE-H,2025-04-13
+EQL00313,Cart,Operational,ZONE-B,2024-08-05
+EQL00314,Conveyor Belt,Maintenance,ZONE-H,2025-03-11
+EQL00315,Conveyor Belt,Operational,ZONE-H,2024-05-24
+EQL00316,Cart,Operational,ZONE-E,2024-10-03
+EQL00317,Forklift,Operational,ZONE-C,2024-02-29
+EQL00318,Pallet Jack,Operational,ZONE-I,2025-01-09
+EQL00319,Pallet Jack,Out of Service,ZONE-G,2025-02-07
+EQL00320,Conveyor Belt,Maintenance,ZONE-A,2024-04-23
+EQL00321,Cart,Out of Service,ZONE-H,2025-05-09
+EQL00322,Scanner,Maintenance,ZONE-J,2024-12-01
+EQL00323,Forklift,Maintenance,ZONE-E,2025-07-22
+EQL00324,Pallet Jack,Maintenance,ZONE-F,2024-10-11
+EQL00325,Forklift,Maintenance,ZONE-I,2024-05-08
+EQL00326,Forklift,Maintenance,ZONE-J,2024-11-10
+EQL00327,Forklift,Out of Service,ZONE-H,2024-03-11
+EQL00328,Cart,Maintenance,ZONE-C,2024-12-10
+EQL00329,Cart,Operational,ZONE-E,2024-04-07
+EQL00330,Cart,Out of Service,ZONE-D,2024-10-26
+EQL00331,Conveyor Belt,Out of Service,ZONE-A,2024-06-24
+EQL00332,Cart,Maintenance,ZONE-E,2024-03-15
+EQL00333,Conveyor Belt,Operational,ZONE-J,2024-05-22
+EQL00334,Pallet Jack,Operational,ZONE-G,2024-01-23
+EQL00335,Pallet Jack,Maintenance,ZONE-A,2024-06-29
+EQL00336,Pallet Jack,Maintenance,ZONE-D,2024-02-14
+EQL00337,Pallet Jack,Operational,ZONE-F,2025-04-13
+EQL00338,Pallet Jack,Out of Service,ZONE-I,2024-04-01
+EQL00339,Cart,Out of Service,ZONE-H,2024-09-25
+EQL00340,Scanner,Maintenance,ZONE-B,2024-02-03
+EQL00341,Cart,Out of Service,ZONE-C,2024-12-29
+EQL00342,Scanner,Out of Service,ZONE-J,2024-05-12
+EQL00343,Cart,Operational,ZONE-E,2025-01-16
+EQL00344,Pallet Jack,Out of Service,ZONE-G,2024-10-03
+EQL00345,Forklift,Operational,ZONE-C,2024-06-04
+EQL00346,Scanner,Maintenance,ZONE-G,2025-01-21
+EQL00347,Forklift,Maintenance,ZONE-E,2025-06-18
+EQL00348,Pallet Jack,Operational,ZONE-J,2024-07-18
+EQL00349,Scanner,Operational,ZONE-F,2024-10-01
+EQL00350,Forklift,Maintenance,ZONE-F,2025-05-15
+EQL00351,Cart,Operational,ZONE-D,2025-04-03
+EQL00352,Pallet Jack,Maintenance,ZONE-H,2024-02-19
+EQL00353,Cart,Maintenance,ZONE-I,2025-06-15
+EQL00354,Cart,Maintenance,ZONE-B,2024-04-01
+EQL00355,Pallet Jack,Maintenance,ZONE-I,2025-03-31
+EQL00356,Scanner,Maintenance,ZONE-D,2024-12-04
+EQL00357,Conveyor Belt,Maintenance,ZONE-F,2024-02-22
+EQL00358,Conveyor Belt,Out of Service,ZONE-G,2025-05-10
+EQL00359,Pallet Jack,Out of Service,ZONE-D,2024-01-04
+EQL00360,Conveyor Belt,Maintenance,ZONE-H,2024-10-07
+EQL00361,Forklift,Out of Service,ZONE-J,2024-10-16
+EQL00362,Scanner,Operational,ZONE-H,2024-03-13
+EQL00363,Cart,Operational,ZONE-A,2024-05-16
+EQL00364,Cart,Maintenance,ZONE-H,2025-01-27
+EQL00365,Pallet Jack,Out of Service,ZONE-J,2024-07-26
+EQL00366,Cart,Operational,ZONE-C,2024-09-16
+EQL00367,Forklift,Operational,ZONE-E,2024-09-19
+EQL00368,Forklift,Operational,ZONE-J,2025-05-19
+EQL00369,Pallet Jack,Operational,ZONE-H,2025-07-03
+EQL00370,Cart,Out of Service,ZONE-F,2024-07-21
+EQL00371,Conveyor Belt,Operational,ZONE-D,2024-12-12
+EQL00372,Conveyor Belt,Operational,ZONE-D,2024-02-21
+EQL00373,Scanner,Operational,ZONE-D,2024-12-21
+EQL00374,Pallet Jack,Maintenance,ZONE-F,2025-06-02
+EQL00375,Scanner,Operational,ZONE-G,2024-12-28
+EQL00376,Conveyor Belt,Operational,ZONE-E,2024-02-14
+EQL00377,Conveyor Belt,Out of Service,ZONE-J,2025-01-12
+EQL00378,Conveyor Belt,Operational,ZONE-H,2025-02-15
+EQL00379,Scanner,Operational,ZONE-G,2024-05-21
+EQL00380,Pallet Jack,Operational,ZONE-H,2024-09-14
+EQL00381,Forklift,Maintenance,ZONE-D,2024-02-06
+EQL00382,Forklift,Out of Service,ZONE-H,2024-02-14
+EQL00383,Conveyor Belt,Out of Service,ZONE-F,2024-02-15
+EQL00384,Pallet Jack,Maintenance,ZONE-C,2025-07-18
+EQL00385,Pallet Jack,Maintenance,ZONE-H,2024-10-27
+EQL00386,Cart,Out of Service,ZONE-G,2024-10-14
+EQL00387,Cart,Operational,ZONE-J,2024-09-25
+EQL00388,Scanner,Out of Service,ZONE-E,2024-03-02
+EQL00389,Cart,Maintenance,ZONE-D,2025-07-19
+EQL00390,Scanner,Operational,ZONE-A,2024-08-29
+EQL00391,Forklift,Out of Service,ZONE-J,2024-12-19
+EQL00392,Conveyor Belt,Operational,ZONE-C,2024-03-11
+EQL00393,Pallet Jack,Operational,ZONE-B,2025-02-16
+EQL00394,Forklift,Maintenance,ZONE-H,2024-03-01
+EQL00395,Forklift,Out of Service,ZONE-H,2025-03-27
+EQL00396,Scanner,Maintenance,ZONE-E,2025-01-27
+EQL00397,Conveyor Belt,Out of Service,ZONE-E,2025-06-12
+EQL00398,Scanner,Out of Service,ZONE-D,2024-10-31
+EQL00399,Forklift,Operational,ZONE-A,2024-07-09
+EQL00400,Pallet Jack,Operational,ZONE-A,2024-03-18
+EQL00401,Cart,Operational,ZONE-F,2025-07-11
+EQL00402,Scanner,Maintenance,ZONE-D,2025-06-08
+EQL00403,Forklift,Operational,ZONE-D,2024-10-27
+EQL00404,Cart,Maintenance,ZONE-C,2024-01-17
+EQL00405,Cart,Operational,ZONE-I,2025-07-27
+EQL00406,Forklift,Maintenance,ZONE-C,2025-03-09
+EQL00407,Conveyor Belt,Out of Service,ZONE-H,2024-02-12
+EQL00408,Forklift,Maintenance,ZONE-B,2024-03-08
+EQL00409,Pallet Jack,Maintenance,ZONE-D,2025-01-14
+EQL00410,Cart,Maintenance,ZONE-A,2024-07-30
+EQL00411,Pallet Jack,Out of Service,ZONE-E,2024-07-21
+EQL00412,Scanner,Maintenance,ZONE-B,2024-04-18
+EQL00413,Cart,Out of Service,ZONE-A,2024-10-10
+EQL00414,Conveyor Belt,Operational,ZONE-A,2024-08-12
+EQL00415,Forklift,Operational,ZONE-B,2024-04-27
+EQL00416,Scanner,Out of Service,ZONE-E,2024-12-05
+EQL00417,Pallet Jack,Maintenance,ZONE-I,2024-10-07
+EQL00418,Scanner,Operational,ZONE-F,2025-05-05
+EQL00419,Conveyor Belt,Maintenance,ZONE-D,2024-01-19
+EQL00420,Forklift,Maintenance,ZONE-C,2024-06-23
+EQL00421,Scanner,Out of Service,ZONE-H,2025-04-13
+EQL00422,Pallet Jack,Operational,ZONE-C,2024-05-21
+EQL00423,Scanner,Out of Service,ZONE-A,2025-04-07
+EQL00424,Forklift,Out of Service,ZONE-D,2024-10-24
+EQL00425,Scanner,Out of Service,ZONE-E,2025-04-14
+EQL00426,Pallet Jack,Out of Service,ZONE-E,2025-01-07
+EQL00427,Forklift,Maintenance,ZONE-E,2025-04-12
+EQL00428,Conveyor Belt,Operational,ZONE-H,2025-03-13
+EQL00429,Conveyor Belt,Operational,ZONE-H,2025-03-18
+EQL00430,Cart,Operational,ZONE-D,2025-03-31
+EQL00431,Scanner,Maintenance,ZONE-I,2024-09-04
+EQL00432,Pallet Jack,Maintenance,ZONE-A,2024-05-21
+EQL00433,Scanner,Out of Service,ZONE-E,2025-02-05
+EQL00434,Forklift,Out of Service,ZONE-E,2024-08-09
+EQL00435,Cart,Out of Service,ZONE-E,2024-07-02
+EQL00436,Pallet Jack,Out of Service,ZONE-H,2024-12-29
+EQL00437,Scanner,Operational,ZONE-I,2024-07-06
+EQL00438,Pallet Jack,Out of Service,ZONE-C,2024-04-22
+EQL00439,Forklift,Maintenance,ZONE-I,2024-06-29
+EQL00440,Cart,Maintenance,ZONE-H,2024-07-17
+EQL00441,Pallet Jack,Maintenance,ZONE-C,2024-03-10
+EQL00442,Forklift,Out of Service,ZONE-B,2025-04-29
+EQL00443,Conveyor Belt,Operational,ZONE-D,2025-02-02
+EQL00444,Pallet Jack,Operational,ZONE-B,2025-07-04
+EQL00445,Cart,Out of Service,ZONE-D,2024-01-10
+EQL00446,Pallet Jack,Out of Service,ZONE-E,2024-01-03
+EQL00447,Pallet Jack,Maintenance,ZONE-B,2025-04-22
+EQL00448,Forklift,Maintenance,ZONE-H,2024-03-07
+EQL00449,Scanner,Operational,ZONE-A,2024-04-06
+EQL00450,Scanner,Maintenance,ZONE-C,2025-06-14
+EQL00451,Pallet Jack,Maintenance,ZONE-G,2024-11-13
+EQL00452,Cart,Out of Service,ZONE-J,2024-04-07
+EQL00453,Cart,Operational,ZONE-A,2024-02-26
+EQL00454,Forklift,Out of Service,ZONE-B,2024-04-16
+EQL00455,Pallet Jack,Operational,ZONE-C,2024-03-28
+EQL00456,Pallet Jack,Out of Service,ZONE-B,2025-01-05
+EQL00457,Scanner,Operational,ZONE-B,2025-01-09
+EQL00458,Forklift,Maintenance,ZONE-F,2024-02-21
+EQL00459,Conveyor Belt,Operational,ZONE-G,2024-02-10
+EQL00460,Cart,Operational,ZONE-F,2024-03-31
+EQL00461,Cart,Out of Service,ZONE-F,2024-02-08
+EQL00462,Pallet Jack,Operational,ZONE-I,2024-01-13
+EQL00463,Forklift,Operational,ZONE-H,2024-04-13
+EQL00464,Conveyor Belt,Operational,ZONE-H,2024-02-12
+EQL00465,Cart,Out of Service,ZONE-F,2024-07-27
+EQL00466,Forklift,Operational,ZONE-E,2025-04-20
+EQL00467,Conveyor Belt,Out of Service,ZONE-I,2024-04-18
+EQL00468,Pallet Jack,Maintenance,ZONE-B,2025-07-12
+EQL00469,Scanner,Out of Service,ZONE-G,2024-08-01
+EQL00470,Cart,Operational,ZONE-F,2025-02-12
+EQL00471,Cart,Maintenance,ZONE-G,2025-07-06
+EQL00472,Conveyor Belt,Operational,ZONE-D,2024-03-17
+EQL00473,Scanner,Out of Service,ZONE-I,2024-04-04
+EQL00474,Forklift,Maintenance,ZONE-G,2024-09-25
+EQL00475,Pallet Jack,Maintenance,ZONE-B,2024-12-26
+EQL00476,Forklift,Maintenance,ZONE-D,2025-06-13
+EQL00477,Conveyor Belt,Operational,ZONE-E,2024-06-10
+EQL00478,Cart,Maintenance,ZONE-B,2025-04-09
+EQL00479,Cart,Maintenance,ZONE-J,2025-07-17
+EQL00480,Forklift,Maintenance,ZONE-H,2025-07-01
+EQL00481,Pallet Jack,Maintenance,ZONE-A,2024-07-05
+EQL00482,Conveyor Belt,Out of Service,ZONE-C,2024-02-21
+EQL00483,Pallet Jack,Operational,ZONE-A,2025-05-02
+EQL00484,Conveyor Belt,Operational,ZONE-E,2025-06-14
+EQL00485,Pallet Jack,Maintenance,ZONE-H,2025-01-30
+EQL00486,Forklift,Out of Service,ZONE-G,2024-04-01
+EQL00487,Scanner,Maintenance,ZONE-I,2024-12-22
+EQL00488,Conveyor Belt,Operational,ZONE-B,2024-05-23
+EQL00489,Forklift,Operational,ZONE-H,2024-07-17
+EQL00490,Cart,Operational,ZONE-H,2024-11-18
+EQL00491,Cart,Maintenance,ZONE-F,2024-11-27
+EQL00492,Pallet Jack,Maintenance,ZONE-C,2024-09-20
+EQL00493,Cart,Out of Service,ZONE-B,2024-08-04
+EQL00494,Scanner,Out of Service,ZONE-H,2025-07-09
+EQL00495,Conveyor Belt,Operational,ZONE-F,2025-03-09
+EQL00496,Pallet Jack,Operational,ZONE-D,2025-04-04
+EQL00497,Conveyor Belt,Out of Service,ZONE-E,2025-05-17
+EQL00498,Conveyor Belt,Operational,ZONE-E,2025-04-13
+EQL00499,Forklift,Out of Service,ZONE-I,2024-12-31
