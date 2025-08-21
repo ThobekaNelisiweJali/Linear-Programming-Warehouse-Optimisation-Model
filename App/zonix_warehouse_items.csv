@@ -1,0 +1,501 @@
+item_id,category,weight_kg,length_cm,width_cm,height_cm,stackable,fragile,hazardous,temperature_range,current_on_hand_qty
+ITM0000,Home Goods,25.51,28,69,14,True,False,True,Ambient,112
+ITM0001,Beverages,41.41,45,72,53,True,True,True,Ambient,445
+ITM0002,Frozen Foods,16.34,38,95,36,False,True,False,Frozen,358
+ITM0003,Beverages,44.83,69,11,41,True,False,False,Frozen,280
+ITM0004,Beverages,19.77,91,97,30,False,True,True,Frozen,116
+ITM0005,Pharmaceuticals,1.04,11,81,17,False,True,True,Ambient,81
+ITM0006,Frozen Foods,45.32,10,20,81,True,False,True,Frozen,198
+ITM0007,Frozen Foods,5.02,56,73,59,True,False,False,Ambient,30
+ITM0008,Frozen Foods,16.31,78,86,76,True,False,False,Frozen,112
+ITM0009,Beverages,47.53,29,90,53,True,False,True,Ambient,131
+ITM0010,Home Goods,47.56,20,81,67,False,True,True,Ambient,476
+ITM0011,Frozen Foods,28.89,11,30,12,False,True,False,Cold,224
+ITM0012,Beverages,31.78,76,27,95,False,False,True,Frozen,340
+ITM0013,Pharmaceuticals,22.7,96,73,79,True,False,True,Frozen,468
+ITM0014,Home Goods,15.01,21,91,11,False,True,False,Ambient,97
+ITM0015,Pharmaceuticals,16.77,29,47,96,True,False,True,Ambient,382
+ITM0016,Home Goods,33.79,14,41,53,True,True,False,Ambient,109
+ITM0017,Beverages,37.74,46,20,11,True,False,True,Cold,369
+ITM0018,Electronics,39.68,47,54,90,True,True,True,Cold,161
+ITM0019,Home Goods,39.59,18,98,44,True,False,False,Ambient,140
+ITM0020,Pharmaceuticals,5.01,62,42,96,True,False,False,Frozen,159
+ITM0021,Beverages,24.97,53,50,39,False,True,True,Frozen,318
+ITM0022,Home Goods,3.35,95,17,17,True,False,False,Cold,267
+ITM0023,Electronics,27.7,33,20,31,False,True,True,Cold,353
+ITM0024,Electronics,22.36,90,95,53,False,True,True,Ambient,423
+ITM0025,Frozen Foods,44.44,83,60,67,True,True,False,Frozen,303
+ITM0026,Frozen Foods,17.87,39,97,45,True,True,True,Ambient,395
+ITM0027,Pharmaceuticals,6.29,68,50,78,True,True,True,Cold,201
+ITM0028,Home Goods,7.58,96,26,86,False,False,False,Frozen,453
+ITM0029,Home Goods,38.19,90,85,40,True,False,False,Frozen,286
+ITM0030,Frozen Foods,31.1,90,55,56,False,True,True,Cold,170
+ITM0031,Home Goods,5.51,23,41,64,True,False,False,Ambient,469
+ITM0032,Home Goods,4.66,18,88,89,True,True,False,Ambient,323
+ITM0033,Electronics,35.2,49,89,71,False,False,False,Frozen,31
+ITM0034,Frozen Foods,4.1,75,63,39,False,False,False,Cold,262
+ITM0035,Beverages,41.18,34,95,64,True,False,True,Frozen,245
+ITM0036,Frozen Foods,35.46,82,29,25,False,False,True,Cold,354
+ITM0037,Beverages,4.53,31,42,21,False,True,True,Ambient,58
+ITM0038,Electronics,4.7,13,83,26,False,True,False,Cold,484
+ITM0039,Pharmaceuticals,49.34,35,49,25,False,False,False,Ambient,68
+ITM0040,Home Goods,19.03,67,41,21,False,False,False,Cold,179
+ITM0041,Electronics,18.85,38,11,17,True,True,False,Frozen,485
+ITM0042,Home Goods,40.73,96,42,93,True,False,False,Ambient,197
+ITM0043,Pharmaceuticals,47.39,46,86,12,False,True,False,Frozen,473
+ITM0044,Pharmaceuticals,49.31,84,39,25,True,True,False,Frozen,280
+ITM0045,Electronics,37.79,79,42,39,True,True,True,Ambient,199
+ITM0046,Pharmaceuticals,19.12,27,86,32,False,False,True,Ambient,455
+ITM0047,Beverages,4.63,94,35,14,True,True,False,Frozen,184
+ITM0048,Pharmaceuticals,38.97,51,31,93,False,False,False,Frozen,455
+ITM0049,Home Goods,28.14,50,75,74,False,True,False,Frozen,60
+ITM0050,Home Goods,21.5,47,47,39,True,False,True,Frozen,373
+ITM0051,Home Goods,45.36,43,99,30,False,False,True,Ambient,64
+ITM0052,Home Goods,6.0,26,55,93,False,False,False,Ambient,253
+ITM0053,Beverages,24.88,46,24,79,False,True,False,Frozen,329
+ITM0054,Frozen Foods,1.06,34,53,31,False,True,True,Cold,140
+ITM0055,Electronics,23.7,85,58,91,False,False,True,Cold,494
+ITM0056,Home Goods,3.29,96,84,81,True,False,True,Ambient,316
+ITM0057,Pharmaceuticals,6.38,95,70,41,True,False,True,Frozen,144
+ITM0058,Home Goods,6.32,94,76,42,False,True,False,Frozen,30
+ITM0059,Pharmaceuticals,32.64,36,15,25,False,True,True,Ambient,338
+ITM0060,Pharmaceuticals,37.43,66,18,85,True,True,True,Cold,176
+ITM0061,Home Goods,29.38,40,15,47,False,True,False,Cold,283
+ITM0062,Beverages,48.13,15,82,23,True,False,True,Cold,397
+ITM0063,Pharmaceuticals,19.06,49,41,45,False,False,True,Ambient,98
+ITM0064,Pharmaceuticals,14.64,21,50,32,False,True,True,Cold,325
+ITM0065,Home Goods,43.5,62,85,75,False,True,False,Ambient,23
+ITM0066,Pharmaceuticals,11.57,80,17,94,False,False,True,Ambient,251
+ITM0067,Pharmaceuticals,48.18,19,81,11,False,True,False,Frozen,274
+ITM0068,Home Goods,1.1,54,59,82,False,True,False,Cold,355
+ITM0069,Home Goods,48.51,26,71,74,False,True,True,Ambient,62
+ITM0070,Electronics,2.64,35,93,84,True,True,True,Cold,395
+ITM0071,Beverages,44.61,94,71,76,True,True,True,Cold,349
+ITM0072,Beverages,26.62,71,16,61,True,True,True,Frozen,101
+ITM0073,Pharmaceuticals,49.65,55,84,71,False,False,False,Cold,376
+ITM0074,Beverages,4.15,73,93,32,False,True,True,Frozen,453
+ITM0075,Pharmaceuticals,27.92,11,89,35,False,True,True,Ambient,464
+ITM0076,Electronics,48.48,63,13,77,False,False,True,Cold,437
+ITM0077,Home Goods,26.39,74,15,91,False,False,False,Ambient,273
+ITM0078,Home Goods,31.66,60,67,64,False,False,True,Cold,440
+ITM0079,Home Goods,34.94,62,31,15,False,True,True,Ambient,44
+ITM0080,Beverages,23.0,45,35,44,True,False,False,Cold,215
+ITM0081,Electronics,31.56,35,12,31,False,True,False,Cold,90
+ITM0082,Beverages,29.42,38,50,52,True,True,True,Cold,429
+ITM0083,Beverages,45.11,30,69,24,True,True,True,Cold,59
+ITM0084,Electronics,2.75,20,23,95,False,False,True,Cold,369
+ITM0085,Electronics,14.41,49,84,69,False,False,True,Cold,397
+ITM0086,Electronics,47.55,20,91,21,True,False,True,Cold,11
+ITM0087,Electronics,44.57,45,21,58,True,False,False,Cold,399
+ITM0088,Home Goods,23.06,68,96,51,False,False,False,Cold,63
+ITM0089,Frozen Foods,31.2,48,21,47,False,True,True,Ambient,115
+ITM0090,Frozen Foods,14.23,63,22,91,True,True,True,Frozen,269
+ITM0091,Electronics,9.81,64,34,54,False,True,False,Cold,319
+ITM0092,Frozen Foods,23.45,33,54,44,False,True,True,Frozen,486
+ITM0093,Frozen Foods,17.99,31,28,39,False,False,True,Cold,200
+ITM0094,Electronics,29.39,78,64,97,True,False,True,Cold,411
+ITM0095,Frozen Foods,4.35,65,54,39,True,True,True,Ambient,227
+ITM0096,Beverages,48.73,42,17,87,True,False,True,Ambient,53
+ITM0097,Pharmaceuticals,49.32,45,62,15,False,False,False,Frozen,171
+ITM0098,Pharmaceuticals,35.06,29,64,76,False,True,True,Ambient,211
+ITM0099,Electronics,27.04,92,41,89,True,True,True,Ambient,455
+ITM0100,Home Goods,15.82,90,60,16,True,False,True,Frozen,493
+ITM0101,Electronics,40.78,71,53,61,True,False,False,Ambient,279
+ITM0102,Home Goods,34.39,82,91,23,False,True,False,Cold,360
+ITM0103,Pharmaceuticals,8.55,35,79,82,True,True,False,Frozen,313
+ITM0104,Electronics,45.59,75,27,24,True,True,False,Frozen,280
+ITM0105,Beverages,41.22,82,92,30,False,False,True,Cold,465
+ITM0106,Frozen Foods,47.52,82,31,44,False,True,False,Ambient,471
+ITM0107,Home Goods,36.42,49,46,75,False,True,True,Frozen,224
+ITM0108,Frozen Foods,30.86,26,65,11,True,False,True,Frozen,261
+ITM0109,Frozen Foods,21.2,10,68,44,False,False,False,Cold,199
+ITM0110,Electronics,46.67,98,12,91,False,False,False,Cold,305
+ITM0111,Frozen Foods,43.37,70,37,87,True,False,False,Ambient,222
+ITM0112,Beverages,2.74,52,83,29,False,False,False,Frozen,217
+ITM0113,Frozen Foods,1.81,51,44,91,True,True,False,Ambient,246
+ITM0114,Electronics,19.13,34,70,19,True,True,True,Ambient,347
+ITM0115,Beverages,40.62,48,63,34,False,False,False,Cold,376
+ITM0116,Pharmaceuticals,49.37,44,72,75,False,False,False,Frozen,62
+ITM0117,Frozen Foods,7.95,12,88,34,False,False,False,Frozen,289
+ITM0118,Electronics,29.91,53,16,63,False,False,True,Frozen,419
+ITM0119,Pharmaceuticals,19.35,60,85,42,False,False,False,Cold,226
+ITM0120,Pharmaceuticals,48.51,21,58,45,False,True,True,Cold,261
+ITM0121,Home Goods,42.18,28,94,23,True,True,False,Cold,197
+ITM0122,Beverages,42.0,53,40,74,True,True,False,Cold,389
+ITM0123,Frozen Foods,23.7,68,67,89,False,True,True,Cold,50
+ITM0124,Electronics,21.03,58,70,63,True,False,False,Frozen,166
+ITM0125,Home Goods,14.03,70,33,61,False,True,True,Ambient,24
+ITM0126,Beverages,3.29,26,29,12,True,False,True,Frozen,310
+ITM0127,Home Goods,43.3,83,46,50,True,False,True,Ambient,74
+ITM0128,Beverages,40.74,66,13,15,True,False,False,Cold,354
+ITM0129,Beverages,49.99,64,29,34,False,True,False,Ambient,336
+ITM0130,Frozen Foods,49.83,56,69,22,True,False,False,Frozen,18
+ITM0131,Beverages,27.99,21,33,17,False,True,True,Frozen,353
+ITM0132,Home Goods,38.56,71,59,30,True,True,False,Ambient,138
+ITM0133,Beverages,47.27,89,58,77,True,False,True,Cold,145
+ITM0134,Frozen Foods,42.56,97,60,34,True,False,False,Cold,481
+ITM0135,Frozen Foods,12.74,92,45,88,True,False,True,Frozen,72
+ITM0136,Home Goods,22.8,17,75,77,True,True,True,Ambient,148
+ITM0137,Pharmaceuticals,6.89,30,88,54,False,False,True,Cold,90
+ITM0138,Pharmaceuticals,47.73,90,43,69,False,True,False,Cold,401
+ITM0139,Beverages,30.51,96,45,21,True,False,True,Frozen,172
+ITM0140,Electronics,11.82,89,15,41,True,False,True,Cold,428
+ITM0141,Beverages,33.75,79,48,22,True,True,True,Ambient,298
+ITM0142,Home Goods,31.1,81,51,40,True,True,True,Frozen,388
+ITM0143,Home Goods,18.23,34,67,87,False,True,True,Frozen,270
+ITM0144,Home Goods,6.12,91,21,29,True,True,True,Ambient,499
+ITM0145,Home Goods,33.74,98,12,27,False,True,False,Frozen,240
+ITM0146,Home Goods,26.26,21,27,69,True,True,False,Cold,50
+ITM0147,Frozen Foods,38.73,24,49,72,False,False,True,Cold,37
+ITM0148,Pharmaceuticals,26.25,68,30,15,True,False,False,Ambient,144
+ITM0149,Home Goods,42.68,35,24,41,True,True,False,Cold,210
+ITM0150,Electronics,27.82,35,35,52,False,False,True,Ambient,337
+ITM0151,Electronics,28.27,56,17,11,True,True,True,Ambient,277
+ITM0152,Electronics,43.89,41,96,69,True,False,True,Cold,427
+ITM0153,Electronics,20.47,19,51,32,True,False,False,Ambient,42
+ITM0154,Frozen Foods,7.13,25,53,92,False,True,True,Cold,57
+ITM0155,Electronics,1.92,80,23,40,True,True,False,Frozen,416
+ITM0156,Home Goods,37.88,26,87,14,True,True,True,Frozen,71
+ITM0157,Beverages,31.21,32,11,92,False,False,False,Ambient,225
+ITM0158,Electronics,35.35,35,46,43,False,True,True,Cold,302
+ITM0159,Frozen Foods,11.04,94,78,19,False,False,True,Cold,108
+ITM0160,Frozen Foods,7.25,95,47,98,True,True,False,Frozen,181
+ITM0161,Electronics,1.22,16,50,11,True,False,False,Frozen,369
+ITM0162,Beverages,17.85,23,71,20,True,False,False,Cold,223
+ITM0163,Electronics,29.7,88,69,59,False,True,False,Ambient,484
+ITM0164,Frozen Foods,19.92,16,23,40,True,False,False,Frozen,44
+ITM0165,Pharmaceuticals,22.16,18,98,65,True,False,False,Ambient,458
+ITM0166,Home Goods,45.26,57,93,88,False,True,True,Ambient,236
+ITM0167,Frozen Foods,17.74,81,11,82,False,False,False,Frozen,110
+ITM0168,Electronics,25.94,68,79,96,False,True,True,Ambient,440
+ITM0169,Home Goods,39.29,96,26,92,False,True,True,Ambient,471
+ITM0170,Electronics,20.13,91,98,18,False,True,False,Cold,140
+ITM0171,Electronics,31.29,48,37,30,True,True,True,Ambient,266
+ITM0172,Pharmaceuticals,43.19,27,75,82,False,False,False,Cold,14
+ITM0173,Home Goods,47.5,68,44,37,True,False,False,Frozen,227
+ITM0174,Home Goods,7.78,26,14,71,True,False,True,Frozen,264
+ITM0175,Pharmaceuticals,46.37,23,74,16,False,True,True,Cold,407
+ITM0176,Frozen Foods,24.86,40,49,89,False,False,False,Frozen,368
+ITM0177,Electronics,13.28,33,85,25,False,False,False,Ambient,292
+ITM0178,Beverages,23.23,69,65,13,True,True,True,Ambient,402
+ITM0179,Electronics,49.01,54,45,13,False,True,True,Ambient,216
+ITM0180,Electronics,24.88,12,54,49,False,False,True,Frozen,24
+ITM0181,Frozen Foods,16.77,46,32,26,False,True,True,Ambient,355
+ITM0182,Electronics,31.85,52,56,61,False,True,False,Frozen,51
+ITM0183,Pharmaceuticals,12.39,49,40,61,False,True,False,Ambient,389
+ITM0184,Pharmaceuticals,4.26,99,20,45,True,True,False,Cold,470
+ITM0185,Home Goods,6.88,64,19,47,True,False,False,Frozen,188
+ITM0186,Beverages,6.84,96,76,59,True,True,True,Frozen,72
+ITM0187,Electronics,8.02,48,23,72,False,True,True,Ambient,361
+ITM0188,Electronics,7.37,24,89,72,False,True,False,Frozen,240
+ITM0189,Frozen Foods,32.22,13,83,71,False,True,False,Frozen,250
+ITM0190,Pharmaceuticals,9.5,95,19,16,True,True,False,Cold,61
+ITM0191,Beverages,17.61,34,85,36,False,True,False,Cold,105
+ITM0192,Home Goods,44.89,22,10,95,False,True,False,Ambient,397
+ITM0193,Pharmaceuticals,23.96,91,14,23,False,True,False,Cold,231
+ITM0194,Home Goods,33.54,42,29,80,True,False,False,Ambient,494
+ITM0195,Frozen Foods,9.03,25,17,95,False,True,False,Ambient,416
+ITM0196,Frozen Foods,10.02,51,52,14,True,False,False,Ambient,240
+ITM0197,Electronics,2.52,75,85,64,False,True,True,Frozen,246
+ITM0198,Beverages,8.86,64,10,11,True,True,False,Cold,152
+ITM0199,Home Goods,14.29,51,66,71,True,True,True,Ambient,180
+ITM0200,Pharmaceuticals,9.26,43,73,30,True,True,True,Cold,38
+ITM0201,Frozen Foods,4.89,39,93,88,False,False,False,Ambient,45
+ITM0202,Electronics,6.47,22,37,30,False,True,False,Cold,22
+ITM0203,Electronics,23.31,22,46,19,True,True,True,Cold,169
+ITM0204,Home Goods,10.71,27,56,96,True,False,True,Ambient,336
+ITM0205,Frozen Foods,18.53,41,85,67,False,False,False,Frozen,196
+ITM0206,Beverages,25.42,48,46,48,False,True,True,Cold,252
+ITM0207,Frozen Foods,34.67,55,58,14,True,False,False,Frozen,95
+ITM0208,Home Goods,2.45,38,53,74,False,False,False,Frozen,293
+ITM0209,Home Goods,40.07,71,65,22,False,False,False,Ambient,75
+ITM0210,Frozen Foods,31.58,71,37,94,False,True,True,Ambient,179
+ITM0211,Home Goods,4.55,66,88,99,False,True,True,Ambient,54
+ITM0212,Frozen Foods,43.74,25,15,94,True,True,False,Cold,71
+ITM0213,Pharmaceuticals,46.08,65,70,62,False,False,True,Ambient,450
+ITM0214,Frozen Foods,3.52,19,29,91,False,True,True,Ambient,143
+ITM0215,Frozen Foods,14.21,39,87,54,True,False,True,Cold,293
+ITM0216,Home Goods,40.41,34,11,41,True,True,True,Cold,37
+ITM0217,Home Goods,37.54,93,82,45,False,True,True,Ambient,117
+ITM0218,Electronics,9.63,14,46,90,False,False,True,Ambient,53
+ITM0219,Electronics,10.86,74,29,69,False,True,True,Ambient,349
+ITM0220,Pharmaceuticals,18.84,58,35,20,False,False,False,Ambient,295
+ITM0221,Electronics,24.48,12,38,72,True,False,True,Frozen,455
+ITM0222,Frozen Foods,31.1,54,10,30,True,True,True,Frozen,340
+ITM0223,Home Goods,18.76,23,44,61,True,False,True,Ambient,137
+ITM0224,Electronics,23.4,39,79,64,False,True,True,Frozen,357
+ITM0225,Electronics,37.5,77,68,35,False,True,True,Cold,482
+ITM0226,Pharmaceuticals,2.32,27,78,77,False,False,True,Frozen,240
+ITM0227,Pharmaceuticals,13.0,71,42,43,False,True,True,Frozen,199
+ITM0228,Frozen Foods,35.81,46,60,61,True,False,True,Ambient,234
+ITM0229,Home Goods,44.81,34,87,91,True,True,False,Frozen,394
+ITM0230,Pharmaceuticals,25.83,57,21,61,False,True,True,Frozen,386
+ITM0231,Electronics,26.84,74,29,38,True,True,True,Frozen,292
+ITM0232,Home Goods,5.81,62,62,47,False,True,True,Frozen,455
+ITM0233,Home Goods,22.65,88,97,51,False,True,True,Cold,130
+ITM0234,Electronics,26.86,82,52,30,True,False,False,Ambient,125
+ITM0235,Pharmaceuticals,12.5,24,98,51,False,False,False,Ambient,470
+ITM0236,Electronics,13.83,58,59,22,False,False,False,Cold,242
+ITM0237,Home Goods,19.18,97,38,73,True,False,False,Frozen,268
+ITM0238,Beverages,1.49,77,66,26,False,False,False,Cold,368
+ITM0239,Beverages,16.44,21,48,18,False,False,False,Frozen,207
+ITM0240,Frozen Foods,10.97,68,65,50,True,True,False,Cold,465
+ITM0241,Electronics,16.71,46,52,10,False,True,False,Ambient,420
+ITM0242,Electronics,6.43,70,59,11,True,False,False,Ambient,146
+ITM0243,Frozen Foods,44.58,52,32,69,False,False,False,Ambient,327
+ITM0244,Frozen Foods,29.88,79,53,57,True,True,False,Frozen,174
+ITM0245,Frozen Foods,34.12,48,47,38,True,True,False,Frozen,234
+ITM0246,Home Goods,39.56,65,93,19,True,True,False,Cold,316
+ITM0247,Electronics,25.17,72,32,67,False,False,False,Cold,243
+ITM0248,Home Goods,4.8,55,54,69,True,False,False,Ambient,181
+ITM0249,Frozen Foods,27.09,97,61,30,True,False,False,Frozen,161
+ITM0250,Electronics,29.55,20,89,37,True,True,True,Cold,472
+ITM0251,Home Goods,37.4,71,59,84,True,True,False,Frozen,324
+ITM0252,Home Goods,21.87,86,17,43,True,False,True,Frozen,383
+ITM0253,Frozen Foods,6.82,34,94,17,False,False,False,Ambient,169
+ITM0254,Electronics,14.55,80,10,68,False,True,False,Ambient,105
+ITM0255,Frozen Foods,18.47,61,17,95,False,True,True,Frozen,481
+ITM0256,Electronics,32.47,13,38,81,False,True,False,Frozen,242
+ITM0257,Beverages,28.75,68,14,58,False,True,True,Frozen,189
+ITM0258,Pharmaceuticals,18.13,81,95,88,False,False,True,Frozen,122
+ITM0259,Pharmaceuticals,49.33,29,56,26,False,True,True,Ambient,327
+ITM0260,Pharmaceuticals,30.49,72,43,69,True,True,False,Cold,451
+ITM0261,Frozen Foods,12.24,63,74,96,False,True,False,Ambient,61
+ITM0262,Beverages,5.54,83,64,97,True,False,False,Cold,277
+ITM0263,Electronics,8.07,66,99,54,True,False,True,Frozen,304
+ITM0264,Home Goods,12.67,99,52,92,False,True,True,Cold,395
+ITM0265,Electronics,8.45,50,83,78,True,True,False,Ambient,396
+ITM0266,Home Goods,9.74,12,39,41,True,True,False,Ambient,122
+ITM0267,Electronics,14.61,15,91,53,True,False,False,Frozen,110
+ITM0268,Beverages,9.08,14,26,74,True,False,False,Ambient,122
+ITM0269,Home Goods,44.89,14,35,96,False,False,False,Frozen,449
+ITM0270,Frozen Foods,4.47,63,17,17,False,True,True,Ambient,90
+ITM0271,Electronics,26.46,56,56,86,False,False,True,Ambient,196
+ITM0272,Electronics,20.81,96,85,81,False,True,True,Frozen,122
+ITM0273,Home Goods,49.13,58,81,96,False,True,False,Cold,11
+ITM0274,Frozen Foods,6.05,18,98,52,False,True,True,Ambient,139
+ITM0275,Frozen Foods,20.19,29,55,10,False,False,True,Cold,229
+ITM0276,Beverages,48.49,70,77,60,False,True,True,Ambient,63
+ITM0277,Frozen Foods,43.34,44,42,33,False,False,True,Ambient,352
+ITM0278,Frozen Foods,40.95,59,10,33,False,False,True,Ambient,494
+ITM0279,Frozen Foods,13.27,91,28,26,True,True,False,Ambient,233
+ITM0280,Pharmaceuticals,8.96,71,40,14,False,True,True,Cold,234
+ITM0281,Beverages,33.6,26,89,29,True,False,False,Cold,394
+ITM0282,Electronics,46.5,97,23,30,True,True,False,Ambient,412
+ITM0283,Home Goods,28.06,12,62,67,True,False,False,Ambient,135
+ITM0284,Electronics,28.79,41,57,40,True,True,False,Cold,139
+ITM0285,Beverages,14.36,22,78,20,False,False,False,Frozen,62
+ITM0286,Home Goods,38.59,98,99,61,True,False,True,Frozen,181
+ITM0287,Beverages,9.76,82,71,24,False,False,True,Cold,227
+ITM0288,Frozen Foods,16.52,77,75,92,False,False,False,Ambient,169
+ITM0289,Home Goods,21.56,23,73,16,True,True,False,Ambient,207
+ITM0290,Frozen Foods,25.63,20,79,37,False,True,False,Frozen,425
+ITM0291,Electronics,12.5,65,72,60,True,False,True,Frozen,256
+ITM0292,Electronics,6.18,76,82,67,True,False,False,Cold,333
+ITM0293,Home Goods,30.73,38,42,14,False,True,True,Frozen,448
+ITM0294,Home Goods,14.79,18,50,14,False,True,False,Cold,212
+ITM0295,Beverages,29.27,76,98,17,True,True,True,Frozen,193
+ITM0296,Beverages,8.14,34,57,73,False,True,False,Frozen,132
+ITM0297,Frozen Foods,24.32,85,22,19,False,True,True,Frozen,410
+ITM0298,Home Goods,26.86,51,82,47,False,True,False,Ambient,264
+ITM0299,Electronics,3.07,18,86,90,True,False,True,Ambient,303
+ITM0300,Beverages,17.16,88,40,17,True,True,True,Ambient,289
+ITM0301,Beverages,7.15,49,84,34,False,True,True,Frozen,334
+ITM0302,Electronics,3.64,34,77,82,False,False,True,Cold,381
+ITM0303,Beverages,49.5,14,13,75,False,True,True,Cold,107
+ITM0304,Frozen Foods,16.46,20,28,88,False,True,True,Cold,207
+ITM0305,Home Goods,40.59,68,79,59,False,True,True,Cold,479
+ITM0306,Electronics,13.1,97,91,76,True,True,False,Ambient,404
+ITM0307,Home Goods,34.23,88,22,58,False,True,False,Ambient,249
+ITM0308,Beverages,38.13,47,32,45,True,False,False,Frozen,153
+ITM0309,Beverages,29.98,81,92,77,False,True,False,Frozen,106
+ITM0310,Electronics,23.84,14,84,87,True,False,False,Cold,210
+ITM0311,Frozen Foods,20.89,57,10,50,False,False,True,Ambient,133
+ITM0312,Pharmaceuticals,17.77,99,97,98,True,True,True,Cold,196
+ITM0313,Electronics,46.51,27,63,71,False,False,True,Frozen,335
+ITM0314,Pharmaceuticals,41.62,79,80,19,True,True,True,Frozen,473
+ITM0315,Pharmaceuticals,48.27,46,98,30,True,False,True,Cold,358
+ITM0316,Frozen Foods,6.65,69,94,45,True,False,False,Frozen,268
+ITM0317,Pharmaceuticals,36.68,57,24,21,True,True,False,Cold,157
+ITM0318,Pharmaceuticals,46.95,86,74,11,True,True,False,Ambient,261
+ITM0319,Frozen Foods,9.47,37,85,22,True,True,False,Cold,452
+ITM0320,Pharmaceuticals,3.79,78,80,62,False,True,True,Ambient,429
+ITM0321,Pharmaceuticals,37.19,86,24,41,True,True,True,Ambient,412
+ITM0322,Pharmaceuticals,28.94,90,30,25,False,False,True,Frozen,355
+ITM0323,Electronics,42.17,49,28,41,False,False,False,Frozen,460
+ITM0324,Electronics,7.42,54,69,41,False,False,True,Frozen,156
+ITM0325,Electronics,39.87,71,98,20,False,False,False,Cold,157
+ITM0326,Frozen Foods,10.48,67,42,19,False,False,True,Cold,361
+ITM0327,Beverages,8.6,76,58,24,True,False,True,Frozen,208
+ITM0328,Pharmaceuticals,8.63,65,44,26,True,False,False,Cold,317
+ITM0329,Pharmaceuticals,40.82,49,53,49,True,True,True,Frozen,498
+ITM0330,Frozen Foods,33.43,49,99,27,False,True,True,Cold,426
+ITM0331,Pharmaceuticals,26.39,86,20,64,True,False,False,Ambient,433
+ITM0332,Electronics,18.26,42,81,82,True,False,True,Ambient,137
+ITM0333,Beverages,43.92,15,87,34,True,True,False,Frozen,48
+ITM0334,Home Goods,19.93,97,83,68,True,True,True,Cold,347
+ITM0335,Pharmaceuticals,40.92,28,75,87,True,True,True,Cold,369
+ITM0336,Electronics,22.24,89,55,98,False,True,True,Ambient,138
+ITM0337,Home Goods,19.16,49,18,31,True,False,True,Ambient,276
+ITM0338,Beverages,23.4,68,12,39,False,True,True,Frozen,485
+ITM0339,Home Goods,15.42,68,94,93,False,False,True,Ambient,450
+ITM0340,Electronics,37.51,57,35,94,False,False,True,Frozen,482
+ITM0341,Home Goods,25.38,50,81,53,False,False,True,Ambient,443
+ITM0342,Frozen Foods,11.99,22,57,41,False,True,False,Ambient,160
+ITM0343,Home Goods,45.03,54,75,60,True,True,False,Cold,424
+ITM0344,Pharmaceuticals,19.5,98,79,55,True,False,True,Ambient,487
+ITM0345,Pharmaceuticals,27.41,62,37,30,True,False,True,Ambient,307
+ITM0346,Frozen Foods,45.37,51,35,41,False,False,False,Frozen,108
+ITM0347,Electronics,31.4,72,34,48,True,True,True,Ambient,272
+ITM0348,Pharmaceuticals,6.29,36,21,21,True,False,True,Frozen,261
+ITM0349,Beverages,47.02,47,14,56,False,True,False,Ambient,153
+ITM0350,Pharmaceuticals,31.57,69,57,27,False,False,True,Ambient,355
+ITM0351,Pharmaceuticals,17.08,16,46,30,False,False,True,Frozen,121
+ITM0352,Electronics,7.39,14,88,22,False,False,False,Cold,69
+ITM0353,Home Goods,39.8,54,53,30,True,True,True,Frozen,378
+ITM0354,Pharmaceuticals,31.19,67,24,17,False,True,True,Frozen,11
+ITM0355,Frozen Foods,26.91,40,52,55,False,False,False,Frozen,394
+ITM0356,Home Goods,44.75,32,57,16,True,True,True,Cold,313
+ITM0357,Beverages,39.54,51,96,32,True,False,False,Ambient,263
+ITM0358,Electronics,8.01,19,79,84,False,True,True,Frozen,149
+ITM0359,Beverages,15.93,41,55,95,True,True,True,Frozen,462
+ITM0360,Home Goods,12.8,62,52,31,False,True,False,Cold,46
+ITM0361,Home Goods,37.33,39,30,98,False,False,False,Frozen,169
+ITM0362,Home Goods,2.16,48,32,31,True,True,True,Ambient,18
+ITM0363,Beverages,28.71,40,89,38,True,True,False,Cold,242
+ITM0364,Home Goods,38.24,91,56,22,False,False,False,Ambient,108
+ITM0365,Beverages,43.9,11,24,91,False,False,True,Ambient,156
+ITM0366,Home Goods,17.43,87,34,11,False,False,True,Cold,313
+ITM0367,Frozen Foods,41.15,86,45,38,True,False,True,Frozen,217
+ITM0368,Home Goods,5.98,21,84,94,False,True,False,Ambient,140
+ITM0369,Beverages,42.4,48,60,88,False,True,False,Ambient,413
+ITM0370,Pharmaceuticals,6.81,75,24,61,False,True,False,Ambient,161
+ITM0371,Home Goods,20.17,22,77,36,False,True,False,Ambient,63
+ITM0372,Pharmaceuticals,39.97,55,30,59,False,True,True,Cold,129
+ITM0373,Frozen Foods,7.92,36,22,88,True,False,False,Cold,170
+ITM0374,Electronics,11.85,26,95,32,False,True,True,Ambient,417
+ITM0375,Frozen Foods,36.25,69,28,97,False,True,False,Frozen,125
+ITM0376,Home Goods,36.14,73,43,53,False,True,True,Ambient,84
+ITM0377,Pharmaceuticals,32.24,97,87,86,False,False,True,Frozen,122
+ITM0378,Pharmaceuticals,34.85,44,77,31,True,False,True,Ambient,465
+ITM0379,Beverages,27.36,79,61,52,True,True,False,Frozen,429
+ITM0380,Pharmaceuticals,12.96,92,36,46,True,False,True,Ambient,431
+ITM0381,Beverages,17.61,39,38,70,False,False,True,Frozen,113
+ITM0382,Electronics,9.49,80,37,65,False,False,False,Ambient,349
+ITM0383,Home Goods,45.47,83,44,12,True,False,True,Ambient,263
+ITM0384,Beverages,29.38,72,17,72,True,False,False,Frozen,236
+ITM0385,Electronics,20.34,37,25,28,True,False,False,Cold,121
+ITM0386,Pharmaceuticals,23.37,69,45,32,False,False,True,Frozen,482
+ITM0387,Pharmaceuticals,47.39,88,39,38,False,True,True,Cold,108
+ITM0388,Electronics,8.09,46,27,39,True,True,False,Ambient,162
+ITM0389,Pharmaceuticals,29.52,31,11,48,True,False,True,Frozen,358
+ITM0390,Electronics,25.54,77,58,34,True,True,False,Frozen,411
+ITM0391,Beverages,30.77,29,86,17,False,True,False,Frozen,393
+ITM0392,Beverages,1.4,77,13,67,False,False,False,Cold,375
+ITM0393,Electronics,43.67,73,99,25,False,True,True,Cold,347
+ITM0394,Beverages,46.64,26,98,81,True,False,False,Ambient,203
+ITM0395,Beverages,28.47,21,84,10,True,False,True,Cold,319
+ITM0396,Beverages,34.98,31,16,14,False,False,True,Cold,172
+ITM0397,Frozen Foods,46.16,26,83,12,True,True,True,Ambient,217
+ITM0398,Home Goods,35.51,19,48,74,False,True,True,Frozen,454
+ITM0399,Pharmaceuticals,8.05,74,22,13,True,True,False,Frozen,178
+ITM0400,Frozen Foods,29.03,31,40,73,True,True,True,Ambient,493
+ITM0401,Beverages,30.53,99,80,98,True,False,False,Frozen,170
+ITM0402,Electronics,21.49,91,72,19,True,False,False,Cold,77
+ITM0403,Beverages,36.95,59,65,30,False,True,True,Ambient,298
+ITM0404,Home Goods,46.75,23,51,55,True,False,False,Ambient,407
+ITM0405,Beverages,46.32,73,70,36,False,False,False,Ambient,286
+ITM0406,Electronics,22.82,56,51,75,False,True,True,Frozen,313
+ITM0407,Home Goods,6.11,38,65,50,False,False,False,Ambient,413
+ITM0408,Beverages,49.25,85,45,22,True,True,False,Ambient,393
+ITM0409,Home Goods,42.03,45,93,18,False,False,False,Ambient,401
+ITM0410,Pharmaceuticals,6.67,61,77,45,False,True,False,Frozen,144
+ITM0411,Pharmaceuticals,46.08,85,16,95,False,False,True,Cold,204
+ITM0412,Beverages,43.56,16,63,99,True,False,False,Ambient,410
+ITM0413,Home Goods,26.18,38,10,67,True,True,False,Cold,137
+ITM0414,Electronics,29.77,20,53,63,False,True,False,Frozen,42
+ITM0415,Beverages,20.25,42,54,21,True,True,False,Frozen,185
+ITM0416,Pharmaceuticals,3.21,15,56,90,False,True,True,Frozen,469
+ITM0417,Pharmaceuticals,17.09,88,22,87,False,False,False,Frozen,452
+ITM0418,Beverages,40.24,41,31,23,True,False,True,Cold,380
+ITM0419,Home Goods,0.73,60,30,43,False,True,False,Ambient,479
+ITM0420,Pharmaceuticals,17.01,84,95,62,True,False,True,Frozen,384
+ITM0421,Home Goods,20.21,67,18,29,True,True,True,Frozen,31
+ITM0422,Pharmaceuticals,27.1,96,35,84,False,True,True,Cold,247
+ITM0423,Pharmaceuticals,46.03,35,18,25,True,False,True,Cold,167
+ITM0424,Frozen Foods,17.64,55,24,79,True,False,True,Frozen,47
+ITM0425,Pharmaceuticals,17.67,38,19,65,False,True,False,Ambient,239
+ITM0426,Electronics,37.01,13,97,92,False,True,False,Ambient,374
+ITM0427,Beverages,22.88,90,51,67,True,True,False,Frozen,60
+ITM0428,Beverages,11.62,22,81,13,True,False,True,Cold,447
+ITM0429,Home Goods,22.9,48,33,13,False,False,False,Frozen,273
+ITM0430,Pharmaceuticals,7.47,24,89,29,True,False,True,Frozen,292
+ITM0431,Electronics,9.23,38,58,19,True,False,True,Cold,36
+ITM0432,Home Goods,25.17,38,35,33,True,True,False,Frozen,235
+ITM0433,Frozen Foods,21.24,84,46,35,True,True,False,Frozen,286
+ITM0434,Home Goods,45.78,41,77,46,True,True,True,Frozen,295
+ITM0435,Home Goods,18.44,11,59,94,True,True,True,Cold,106
+ITM0436,Pharmaceuticals,29.24,56,33,63,True,True,False,Ambient,293
+ITM0437,Frozen Foods,31.8,87,28,30,False,True,False,Ambient,376
+ITM0438,Home Goods,1.15,93,69,83,False,False,False,Cold,457
+ITM0439,Electronics,33.35,31,48,47,False,False,False,Ambient,490
+ITM0440,Electronics,9.31,84,83,55,False,True,True,Frozen,462
+ITM0441,Beverages,48.07,36,98,13,False,True,False,Ambient,326
+ITM0442,Frozen Foods,7.86,76,27,69,True,False,False,Frozen,313
+ITM0443,Frozen Foods,21.02,90,28,66,True,False,False,Ambient,156
+ITM0444,Beverages,4.72,65,45,54,True,False,True,Cold,13
+ITM0445,Home Goods,49.85,30,83,29,True,False,True,Ambient,44
+ITM0446,Frozen Foods,25.36,56,64,26,False,True,True,Ambient,201
+ITM0447,Electronics,29.97,89,78,80,True,True,True,Ambient,58
+ITM0448,Electronics,3.82,68,56,13,True,True,False,Cold,26
+ITM0449,Pharmaceuticals,37.62,93,58,23,False,True,True,Ambient,181
+ITM0450,Frozen Foods,10.89,15,42,12,True,True,False,Cold,229
+ITM0451,Home Goods,44.95,28,30,97,True,False,False,Frozen,167
+ITM0452,Beverages,10.65,66,90,89,False,True,False,Ambient,486
+ITM0453,Beverages,9.94,78,31,67,True,False,False,Cold,55
+ITM0454,Home Goods,2.31,12,57,64,True,True,True,Cold,382
+ITM0455,Pharmaceuticals,23.87,10,46,13,True,True,True,Ambient,15
+ITM0456,Beverages,28.46,67,24,33,True,True,True,Frozen,108
+ITM0457,Frozen Foods,3.75,47,44,43,True,True,False,Cold,389
+ITM0458,Pharmaceuticals,38.89,24,80,39,False,True,False,Ambient,242
+ITM0459,Frozen Foods,22.94,43,41,91,False,False,False,Frozen,46
+ITM0460,Electronics,26.46,70,20,28,False,False,False,Cold,289
+ITM0461,Pharmaceuticals,22.32,44,19,40,False,False,False,Cold,358
+ITM0462,Beverages,20.34,73,82,69,False,True,True,Frozen,311
+ITM0463,Pharmaceuticals,28.2,34,87,69,False,True,False,Frozen,190
+ITM0464,Pharmaceuticals,8.18,33,86,28,True,False,True,Ambient,104
+ITM0465,Pharmaceuticals,9.51,21,66,58,False,True,False,Ambient,108
+ITM0466,Pharmaceuticals,43.16,27,34,72,False,True,False,Cold,197
+ITM0467,Frozen Foods,47.33,24,11,92,True,False,True,Frozen,490
+ITM0468,Electronics,18.98,89,73,31,True,True,True,Frozen,125
+ITM0469,Home Goods,13.9,36,44,33,False,False,False,Frozen,200
+ITM0470,Pharmaceuticals,32.38,81,16,85,True,True,False,Cold,262
+ITM0471,Beverages,20.73,69,94,39,False,False,False,Frozen,478
+ITM0472,Pharmaceuticals,1.76,55,27,67,True,True,False,Frozen,425
+ITM0473,Beverages,8.23,98,76,40,False,True,True,Cold,480
+ITM0474,Frozen Foods,35.94,26,51,73,True,False,False,Ambient,170
+ITM0475,Beverages,33.12,62,48,28,True,True,True,Ambient,265
+ITM0476,Home Goods,1.84,17,50,57,False,True,False,Cold,332
+ITM0477,Electronics,11.49,88,84,54,False,False,True,Frozen,137
+ITM0478,Beverages,11.94,36,33,64,False,True,True,Cold,27
+ITM0479,Beverages,33.76,55,69,64,False,False,False,Ambient,290
+ITM0480,Electronics,1.48,59,55,27,False,True,True,Ambient,499
+ITM0481,Home Goods,5.65,80,28,72,True,True,False,Cold,232
+ITM0482,Pharmaceuticals,40.1,12,77,56,False,True,True,Cold,63
+ITM0483,Beverages,9.34,73,99,84,False,True,False,Ambient,67
+ITM0484,Electronics,32.81,53,51,66,True,False,True,Cold,332
+ITM0485,Frozen Foods,12.29,62,41,54,True,True,False,Ambient,369
+ITM0486,Electronics,5.42,33,48,42,False,False,False,Cold,183
+ITM0487,Frozen Foods,12.54,69,45,26,True,True,True,Cold,289
+ITM0488,Home Goods,36.25,12,45,79,True,True,True,Cold,123
+ITM0489,Pharmaceuticals,42.86,29,12,13,False,True,True,Ambient,297
+ITM0490,Electronics,41.6,55,82,29,True,True,True,Cold,440
+ITM0491,Beverages,20.16,24,17,56,True,False,False,Ambient,351
+ITM0492,Home Goods,33.57,34,79,24,False,False,True,Ambient,160
+ITM0493,Electronics,10.65,87,50,79,False,False,False,Cold,459
+ITM0494,Beverages,15.01,80,77,56,True,False,True,Cold,136
+ITM0495,Electronics,44.87,26,22,87,True,True,False,Ambient,164
+ITM0496,Frozen Foods,1.14,93,58,84,False,False,False,Ambient,499
+ITM0497,Electronics,4.73,18,69,18,True,False,False,Frozen,395
+ITM0498,Electronics,10.79,47,11,99,True,True,False,Ambient,483
+ITM0499,Electronics,1.81,57,69,25,True,True,True,Frozen,282
