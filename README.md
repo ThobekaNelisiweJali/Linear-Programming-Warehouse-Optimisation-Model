@@ -120,7 +120,7 @@ Downloadable Excel reports
 
 📊 Tip: Place screenshots of the dashboard in /docs/screenshots/ and link them here for better visualization.
 
-📈 Project Phases
+## 📈 Project Phases
 
 Phase 1 – Planning & Requirements: Identified warehouse challenges.
 
@@ -134,7 +134,7 @@ Phase 5 – Visualization & Dashboarding: Created interactive UI and visual anal
 
 Phase 6 – Sensitivity Analysis: Tested robustness under demand and capacity fluctuations.
 
-📊 Results & Benefits
+## 📊 Results & Benefits
 
 +15% higher space efficiency.
 
@@ -146,7 +146,7 @@ Better safety and regulatory compliance.
 
 Scalable to multiple warehouses.
 
-🔮 Roadmap / Next Steps
+## 🔮 Roadmap / Next Steps
 
  Real-time WMS integration for live optimization.
 
@@ -158,13 +158,13 @@ Scalable to multiple warehouses.
 
  AI-powered demand forecasting integration.
 
-👥 Contributors
+## 👥 Contributors
 
-Thobie Jali – Project Lead, Optimization Model & Dashboard Development.
+Thobeka Jali – Project Lead, Optimization Model & Dashboard Development.
 
-Zonix Logistics Team – Provided operational insights and data.
 
-🙌 Acknowledgements
+
+## 🙌 Acknowledgements
 
 Open-source contributors of PuLP and Streamlit.
 
